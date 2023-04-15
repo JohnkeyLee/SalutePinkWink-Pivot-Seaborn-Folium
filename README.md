@@ -1,5 +1,4 @@
-# SalutePinkWink-Pivot-
-# SaultePinkWink
+# SalutePinkWink-Pivot-Seaborn-Folium
 This Repo contains what I learned from "the great teacher" 
 ### [PinkWink](https://github.com/PinkWink)
 ## Title: How to use pandas, matplotlib, and dataframe
@@ -11,6 +10,7 @@ The whole process is to learn _**the data processing and analysis**_
 <br/>matplotlib 3.7.0
 <br/>numpy 1.24.2
 <br/>seaborn 0.12.2
+<br/>folium 0.14.0
 ***
 The below csv files and figures show you the results with the python code in this repo
 ***
