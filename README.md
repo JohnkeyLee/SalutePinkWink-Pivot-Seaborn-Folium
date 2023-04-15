@@ -1,7 +1,7 @@
 # SalutePinkWink-Pivot-Seaborn-Folium
 This Repo contains what I learned from "the great teacher" 
 ### [PinkWink](https://github.com/PinkWink)
-## Title: How to use pandas, matplotlib, and dataframe
+## Title: How to do pivoting tables, plot graphs with seaborn, and plot the data on map
 The whole process is to learn _**the data processing and analysis**_
 <br/>**Task:** Do data processing with csv files and written data, and plot graphs
 <br/>**Work environment:** 
