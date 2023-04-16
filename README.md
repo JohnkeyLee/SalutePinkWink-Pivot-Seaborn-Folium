@@ -6,6 +6,7 @@ The whole process is to learn _**the data processing and analysis**_
 <br/>**Task:** Do data processing with csv files and written data, and plot graphs
 <br/>**Work environment:** 
 > python 3.9.5 (4/15/2023)
+<br/>jupyter_core 5.3.0
 <br/>pandas 1.5.3 
 <br/>matplotlib 3.7.0
 <br/>numpy 1.24.2
